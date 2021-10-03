@@ -1,6 +1,6 @@
 {
 	"useTabs": true,
 	"semi": true,
-	"trailingComma": "none",
+	"trailingComma": "all",
 	"arrowParens": "avoid"
 }

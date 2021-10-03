@@ -3,6 +3,7 @@
 	export let type = "button";
 	export let href = undefined;
 	export let disabled = false;
+	export let download: string = undefined;
 	let className = "";
 	export { className as class };
 </script>
@@ -17,6 +18,7 @@
 		on:focus
 		on:blur
 		href={disabled ? undefined : href}
+		{download}
 		{...$$restProps}
 	>
 		<slot />

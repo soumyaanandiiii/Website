@@ -12,10 +12,11 @@
 		"format": "prettier --write --plugin-search-dir=. ."
 	},
 	"devDependencies": {
-		"@fluentui/svg-icons": "^1.1.141",
 		"@fec/remark-a11y-emoji": "^3.1.0",
-		"@sveltejs/adapter-netlify": "^1.0.0-next.31",
-		"@sveltejs/kit": "^1.0.0-next.175",
+		"@fluentui/svg-icons": "^1.1.142",
+		"@sveltejs/adapter-netlify": "^1.0.0-next.32",
+		"@sveltejs/kit": "^1.0.0-next.179",
+		"@types/file-saver": "2.0.3",
 		"@typescript-eslint/eslint-plugin": "^4.32.0",
 		"@typescript-eslint/parser": "^4.32.0",
 		"autoprefixer": "^10.3.6",
@@ -31,10 +32,10 @@
 		"remark-github": "^11.1.0",
 		"remark-slug": "^7.0.0",
 		"sass": "^1.42.1",
-		"svelte": "^3.43.0",
+		"svelte": "^3.43.1",
 		"svelte-check": "^2.2.6",
 		"svelte-drag": "^1.4.0",
-		"svelte-preprocess": "^4.9.5",
+		"svelte-preprocess": "^4.9.8",
 		"tslib": "^2.3.1",
 		"typescript": "^4.4.3"
 	},

@@ -23,7 +23,7 @@
 	<title>Files - {title}</title>
 	<meta content="Files - {title}" property="og:title" />
 
-	<meta content={thumbnail} property="og:image" />
+	<meta content="{thumbnail}" property="og:image" />
 </svelte:head>
 
 <section class="blog-post">

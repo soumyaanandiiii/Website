@@ -20,6 +20,7 @@
 	export let disabled = false;
 	let className = "";
 	export { className as class };
+	export let id: string = undefined;
 
 	let input: HTMLInputElement;
 
@@ -75,6 +76,7 @@
 			on:keydown
 			on:keypress
 			on:keyup
+			{id}
 			{type}
 			{value}
 		/>

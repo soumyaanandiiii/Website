@@ -3,14 +3,14 @@
 
 	import { links } from "$data/links";
 	import { docs } from "$data/docs";
-	import { Navbar } from "$layout";
+	import { Navbar } from "$layout/";
 
 	import Chat from "@fluentui/svg-icons/icons/chat_24_regular.svg?raw";
 	import Code from "@fluentui/svg-icons/icons/code_24_regular.svg?raw";
 	import Home from "@fluentui/svg-icons/icons/home_24_regular.svg?raw";
 	import Book from "@fluentui/svg-icons/icons/book_24_regular.svg?raw";
 	import News from "@fluentui/svg-icons/icons/news_24_regular.svg?raw";
-	// import PaintBrush from "@fluentui/svg-icons/icons/paint_brush_24_regular.svg?raw";
+	import PaintBrush from "@fluentui/svg-icons/icons/paint_brush_24_regular.svg?raw";
 
 	let theme = "light";
 
@@ -40,11 +40,11 @@
 			sidebarTree: docs,
 			icon: Book
 		},
-		// {
-		//     name: "Themes",
-		//     path: "/themes",
-		//     icon: PaintBrush
-		// },
+		{
+			name: "Themes",
+			path: "/themes",
+			icon: PaintBrush
+		},
 		{
 			name: "Blog",
 			path: "/blog",
