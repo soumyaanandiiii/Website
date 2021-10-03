@@ -16,7 +16,6 @@
 		"@fluentui/svg-icons": "^1.1.142",
 		"@sveltejs/adapter-netlify": "^1.0.0-next.32",
 		"@sveltejs/kit": "^1.0.0-next.179",
-		"@types/file-saver": "2.0.3",
 		"@typescript-eslint/eslint-plugin": "^4.32.0",
 		"@typescript-eslint/parser": "^4.32.0",
 		"autoprefixer": "^10.3.6",
