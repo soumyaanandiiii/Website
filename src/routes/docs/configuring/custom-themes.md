@@ -26,7 +26,9 @@ Default template
 
 ## Available resources
 
-The themeing system in Files allows you to override any resource that's included in the WinUI library but most themes including the built-in themes only override a couple of brushes.
+The themeing system in Files allows y=![Hazy-Night 1](https://user-images.githubusercontent.com/106103136/169866677-48e1e2c9-5bca-4ffc-b5b5-5c5390708805.png)
+![screen-1](https://user-images.githubusercontent.com/106103136/169867075-5a507a59-a6f0-47c2-a3b6-6b3bb6e88737.jpg)
+u to override any resource that's included in the WinUI library but most themes including the built-in themes only override a couple of brushes.
 
 | Key | Example | Default value |
 | --------- | ----------- | ---------- |
